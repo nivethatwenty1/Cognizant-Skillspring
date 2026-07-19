@@ -1,7 +1,7 @@
 # Selenium Automation Project
 
 ## Overview
-This project demonstrates Selenium automation using Python, Pytest, and the Page Object Model (POM).
+This project demonstrates Selenium automation using Python, Pytest and the Page Object Model (POM).
 
 ## Features
 - Selenium WebDriver
